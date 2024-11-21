@@ -13,6 +13,9 @@ Life’s too short to forget stuff! With the **ToDo** app, you’ll become the n
 ### 3. 🎯 Guess The Number - Mind-bending Fun 🤯  
 Think you’ve got what it takes to outsmart a simple number guessing game? **Guess The Number** will have you second-guessing yourself faster than a surprise quiz! 🎮 Get ready to feel like a genius or face the agony of defeat... but in a fun way! 😜🔢
 
+### 4. 🎬 YouTube Video Downloader with Quality Selection - Download Videos Your Way! 📥🎥
+Take control of your video downloads! With the YouTube Video Downloader, you can choose the best resolution or save data with lower-quality options. 🚀 No buffering, just smooth downloads at your preferred quality. Customize your video experience now! 🔥✨
+
 ---
 
 ## 🚧 More Projects Coming Soon! 🔜  

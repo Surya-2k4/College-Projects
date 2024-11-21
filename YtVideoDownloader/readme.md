@@ -102,7 +102,7 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 
 Here’s how the application works:  
 
-![Sample Output](images/output_example.png)
+![Sample Output](consoleOp.png)
 
 > The above image showcases the video download process, listing available formats and resolutions, and successfully downloading the chosen video.
 

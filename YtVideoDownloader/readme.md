@@ -98,7 +98,18 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 
 ---
 
+## 📸 Output  
+
+Here’s how the application works:  
+
+![Sample Output](images/output_example.png)
+
+> The above image showcases the video download process, listing available formats and resolutions, and successfully downloading the chosen video.
+
+
 ### 🌟 Acknowledgments  
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) for video downloading capabilities.  
 - [FFmpeg](https://ffmpeg.org/) for handling video/audio processing. //optional for this project
+
+

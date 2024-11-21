@@ -18,7 +18,7 @@ A Python-based YouTube video downloader that allows users to select their desire
 
 - **Python 3.7+**  
 - **yt-dlp**: Install using `pip install yt-dlp`  
-- **FFmpeg** (optional but recommended for fixing certain video/audio encoding issues):  
+- **FFmpeg** (optional but recommended for fixing certain video/audio encoding issues):  //optional
   - [Install FFmpeg](https://ffmpeg.org/download.html)  
 
 ---
@@ -77,7 +77,7 @@ Download complete!
 
 ```
 📁 youtube-video-downloader  
-├── giveme.py   # Main script  
+├── giveme.py               # Main script  
 ├── requirements.txt        # Dependencies  
 └── README.md               # Project documentation  
 ```

@@ -27,8 +27,8 @@ A Python-based YouTube video downloader that allows users to select their desire
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Surya-2k4/youtube-video-downloader.git
-   cd youtube-video-downloader
+   git clone https://github.com/Surya-2k4/College-Projects/tree/main/YtVideoDownloader
+   cd YtVideoDownloader
    ```
 
 2. Install dependencies:  

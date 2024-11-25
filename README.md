@@ -1,4 +1,4 @@
-# 🎓 College-Proj - The Project Showcase 🎉
+# The Project Showcase 🎉
 
 Welcome to **UG-Proj**, where brilliance meets... well, a lot of coffee and coding! ☕💻 This is your one-stop destination to check out my finest (and sometimes funny) student projects. Here’s a sneak peek at what’s inside:
 

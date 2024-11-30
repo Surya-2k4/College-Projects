@@ -1,43 +1,49 @@
 
-# Event Management System
+# 🎉 Event Management System 🎉
 
-This Java-based desktop application provides a comprehensive Event Management System with features to add, view, update, delete, search, and export events.
+A **Java-based desktop application** for efficiently managing events! This application includes features to **Add**, **View**, **Search**, **Update**, **Delete**, and **Export Events** with ease.  
 
-## Features
+---
 
-1. **Add Events**:
-    - Users can add new events by providing details like Event Name, Date, Description, Category, Media, and Status.
-    - Media files can be uploaded (image files like JPG, PNG, and GIF).
+## 🚀 Features
 
-2. **View Events**:
-    - Displays all events in a table format.
-    - Users can update or delete existing events.
+1. **✨ Add Events**:  
+   - Add new events with details like Event Name, Date, Description, Category, Media, and Status.  
+   - Upload media files (supported formats: JPG, PNG, GIF).  
 
-3. **Search Events**:
-    - Search events by their name using the search functionality.
+2. **👀 View Events**:  
+   - Displays events in a table format.  
+   - Update or delete events with a single click.  
 
-4. **Export to CSV**:
-    - Export event data to a CSV file.
+3. **🔍 Search Events**:  
+   - Search events by their name using a powerful search functionality.  
 
-5. **Event Status Management**:
-    - Categorize events into "Upcoming," "Ongoing," and "Completed".
+4. **📤 Export to CSV**:  
+   - Export all event data to a CSV file in just one click!  
 
-## Technology Stack
+5. **📅 Event Status Management**:  
+   - Categorize events into **"Upcoming"**, **"Ongoing"**, and **"Completed"**.  
 
-- **Programming Language**: Java
-- **Database**: MySQL
-- **UI Framework**: Swing
+---
 
-## Setup Instructions
+## 🛠 Technology Stack
 
-### Prerequisites
-- Java Development Kit (JDK) installed.
-- MySQL Server installed.
-- IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
+- **💻 Programming Language**: Java  
+- **📊 Database**: MySQL  
+- **🎨 UI Framework**: Swing  
 
-### Database Setup
-1. Create a MySQL database named `event_management`.
-2. Use the following SQL script to create the `events` table:
+---
+
+## 📖 Setup Instructions  
+
+### ⚙️ Prerequisites  
+- Java Development Kit (JDK) installed.  
+- MySQL Server installed.  
+- IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).  
+
+### 🗄 Database Setup  
+1. Create a MySQL database named `event_management`.  
+2. Use the following SQL script to create the `events` table:  
 
 ```sql
 CREATE TABLE events (
@@ -49,30 +55,35 @@ CREATE TABLE events (
     media_path VARCHAR(255),
     status VARCHAR(50)
 );
-```
+```  
 
-### How to Run
-1. Clone or download this repository.
-2. Open the project in your preferred IDE.
-3. Configure the database connection:
-    - Update `DB_URL`, `DB_USER`, and `DB_PASSWORD` in the code.
-4. Run the `EventManagementApp` class.
+### 🏃‍♂️ How to Run  
+1. Clone or download this repository.  
+2. Open the project in your preferred IDE.  
+3. Configure the database connection:  
+   - Update `DB_URL`, `DB_USER`, and `DB_PASSWORD` in the code.  
+4. Run the `EventManagementApp` class.  
 
-### Usage
-- Use the `Add Event` tab to add new events.
-- View all events in the `View Events` tab, where you can also update or delete events.
-- Search for events by name in the `Search Events` tab.
-- Export all events to a CSV file using the export button.
+---
 
-## Screenshots
+## ✨ Usage  
 
-### Event Registration Page
-![Event Registration](screenshots/dbt1.png)
+- Use the **`Add Event`** tab to add new events.  
+- View all events in the **`View Events`** tab, where you can update or delete events.  
+- Search for events by name in the **`Search Events`** tab.  
+- Export all events to a CSV file using the export button.  
 
-### Home Page
-![Home Page](screenshots/dbt2.png)
+---
 
-### Search Event Page
-![Admin Dashboard](screenshots/dbt3.png)
+## 📸 Screenshots  
 
+### 🎨 Event Registration Page  
+![Event Registration](screenshots/dbt1.png)  
 
+### 🖥️ View Events Page  
+![Home Page](screenshots/dbt2.png)  
+
+### 🔎 Search Events Page  
+![Admin Dashboard](screenshots/dbt3.png)  
+
+---

@@ -67,12 +67,12 @@ CREATE TABLE events (
 ## Screenshots
 
 ### Event Registration Page
-![Event Registration](screenshots/event_registration.png)
+![Event Registration](screenshots/dbt1.png)
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/dbt2.png)
 
 ### Search Event Page
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](screenshots/dbt3.png)
 
 

@@ -19,6 +19,7 @@ Take control of your video downloads! With the YouTube Video Downloader, you can
 ### 5. 🖼️ PDF to Image Converter - Turn PDFs into Stunning Images with Python! 📂
 Transform your PDFs into image files effortlessly! With this Python-based PDF to Image Converter, simply provide the PDF path in the command line, and watch as each page is saved as an image. 📥 The images are neatly organized in your downloads directory under a folder named after the PDF.
 
+### 6. 💰 Finance Calculator Suite - Take control of your finances with this all-in-one Python-based Finance Calculator! 📊 Whether you're calculating your SIP, Loan EMI, ROI, or Interest values, this tool offers a simple, minimalistic design powered by Tkinter. 📈 It's the perfect way to streamline your financial planning, all from one neat interface!
 ---
 
 ## 🚧 More Projects Coming Soon! 🔜  

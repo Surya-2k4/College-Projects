@@ -16,6 +16,9 @@ Think you’ve got what it takes to outsmart a simple number guessing game? **Gu
 ### 4. 🎬 YouTube Video Downloader with Quality Selection - Download Videos Your Way! 🎥
 Take control of your video downloads! With the YouTube Video Downloader, you can choose the best resolution or save data with lower-quality options. 🚀 No buffering, just smooth downloads at your preferred quality. Customize your video experience now! 🔥✨
 
+### 5. 🖼️ PDF to Image Converter - Turn PDFs into Stunning Images with Python! 📂
+Transform your PDFs into image files effortlessly! With this Python-based PDF to Image Converter, simply provide the PDF path in the command line, and watch as each page is saved as an image. 📥 The images are neatly organized in your downloads directory under a folder named after the PDF.
+
 ---
 
 ## 🚧 More Projects Coming Soon! 🔜  

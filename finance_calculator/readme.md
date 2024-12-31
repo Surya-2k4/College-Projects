@@ -50,10 +50,6 @@ and Return on Investment (ROI) with ease!🎉
 - **Python 3.x**  
 - **Tkinter** (Pre-installed with Python)
 
-## 📸 Screenshots
-
-_Add screenshots of the application here to showcase its UI._
-
 ## 🤝 Contribution
 
 We welcome contributions to enhance this project! Here's how you can contribute:

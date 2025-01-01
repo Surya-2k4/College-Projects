@@ -21,7 +21,7 @@ Transform your PDFs into image files effortlessly! With this Python-based PDF to
 
 ### 6. 💰 All-in-One Finance Calculator - Simplify your finances with this Python-based tool! 📊
 Whether you're calculating your SIP, Loan EMI, ROI, or Interest values, this tool offers a simple, minimalistic design powered by Tkinter. 
-📈 It's the perfect way to streamline your financial planning, all from one neat interface!
+ It's the perfect way to streamline your financial planning, all from one neat interface!
 
 ---
 
